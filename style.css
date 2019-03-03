@@ -1,0 +1,60 @@
+
+.top
+{
+	background-color: rgb(168, 204, 241);
+	min-height: 70px;
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+.top2 
+{
+	background-color: rgb(168, 204, 241);
+	min-height: 40px;
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+.banner{ 
+	background-color: rgb(168, 204, 241);
+	min-height: 90px;
+	width: 70%;
+	margin: auto;
+	text-align: center;
+	font-size: 80
+ }
+ .fullSide
+{
+	overflow: hidden;
+	width: 70%;
+	margin: auto;
+}
+
+ .side
+ {
+	background-color: rgb(168, 204, 241);
+	min-height: 250px;
+	width: 20%;
+	float: left;
+}
+.sidebody
+{
+	background-color: rgb(168, 204, 241);
+	min-height: 250px;
+	width: 75%;
+	float: right;
+}
+
+
+.footer
+{
+	background-color: rgb(168, 204, 241);
+	min-height: 30px;
+	width: 70%;
+	float: bottom;
+	margin: auto;
+	
+}
+
+
+
